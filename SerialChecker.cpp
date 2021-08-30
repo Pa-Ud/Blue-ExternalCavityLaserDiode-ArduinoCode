@@ -1,3 +1,5 @@
+//Author Dr Matthew Harvey, United Kingdoms, 2018
+
 #include "SerialChecker.h"
 
 /**
