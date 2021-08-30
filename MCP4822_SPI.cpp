@@ -1,3 +1,5 @@
+//Author Dr Matthew Harvey, United Kingdoms, 2018
+
 #include "MCP4822_SPI.h"
 
 MCP4822::MCP4822(uint8_t cs)
