@@ -1,3 +1,5 @@
+//Author Dr Matthew Harvey, United Kingdoms, 2018
+
 #ifndef _MCP4822_SPI_H
 #define _MCP4822_SPI_H
 
