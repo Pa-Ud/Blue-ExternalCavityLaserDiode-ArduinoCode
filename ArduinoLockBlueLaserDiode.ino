@@ -1,4 +1,5 @@
 //Lock Blue Laser Diode
+//Author Mr Parinya Udommai, 
 //LabView measures Laser diode wavelength and calculates feedback to lock it.
 //LabView send 12-bit value to Nano to set DAC via serial comm.
 //Nano provides output voltage to lock the laser.
